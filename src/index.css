@@ -1,0 +1,7 @@
+/*Styling for the entier web page*/
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: "Outfit", Arial, Helvetica, sans-serif;
+}
