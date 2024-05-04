@@ -1,4 +1,6 @@
 @import "../../vars.css";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 
 .navbar {
   position: relative;
@@ -11,10 +13,11 @@
 }
 
 .title {
-  font-size: 30px;
+  font-size: 40px;
   font-weight: 600;
   text-decoration: none;
   color: var(--color-text);
+  font-family: 'Roboto', sans-serif;
 }
 
 

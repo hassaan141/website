@@ -7,17 +7,16 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Zoro</h1>
+        <h1 className={styles.title}>Hi, I'm Muhammad</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+        I am a Mechatronics student at the University of Waterloo, where I blend mechanical and electronic engineering to innovate and solve complex problems. I have a strong interest in full-stack development, web development and robotics.
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="#contact" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
       <img
-        src={getImageUrl("hero/zoro.png")}
+        src={getImageUrl("hero/pfp.png")}
         alt="Hero image of me"
         className={styles.heroImg}
       />

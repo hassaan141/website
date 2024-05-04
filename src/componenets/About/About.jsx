@@ -7,30 +7,30 @@ export const About =()=>{
   return (
     <section className = {styles.container} id='about'>
       <h2 className={styles.title}>
-        About
+        About Me
       </h2>
       <div className={styles.content}>
         <img src={getImageUrl("luffy.jpg")} alt="luffy" className={styles.aboutImage}/>
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor" />
+            <img src={getImageUrl("about/uiIcon.png")} alt="Cursor" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
-              <p>ierhiehbreob hreoihreiohreioh reiohrehooirh eoirheoiheio eoiheoih rei</p>
+              <h3>Full Stack Development</h3>
+              <p>I have experience working with both front-end and back-end applications, creating web applications, landing pages, full-stack apps, and dynamic mobile applications.</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Servor" />
+            <img src={getImageUrl("about/robotics.png")} className={styles.robotImg} alt="Servor" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
-              <p>ierh iehbreo behreoihre iohreiohrei ohrehooirh oirheoi heiohe oihe oihrei</p>
+              <h3>Robotics</h3>
+              <p>I am passionate about robotics and electronics, designing and constructing innovative projects using platforms like Vex, Arduino, and Lego EV3.</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/uiIcon.png")} alt="Ui" />
+            <img src={getImageUrl("about/ball.png")} className={styles.ballImg} alt="Ui" />
             <div className={styles.aboutItemText}>
-              <h3>King of the pirates</h3>
-              <p>ie rhi hbre obehre oihr iohrei hreiohre ooirheoi rheoihei oheo heoihrei</p>
+              <h3>Sports</h3>
+              <p>Aside from technolgoy, I also love to play sports like basketball, football, and soccer.</p>
             </div>
           </li>
         </ul>
