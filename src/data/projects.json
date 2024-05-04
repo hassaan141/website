@@ -1,25 +1,57 @@
 [
   {
+    "title": "BuzzShare -Social Media App",
+    "imageSrc": "projects/buzzshare.JPG",
+    "description": "Created a social media application where users can post tweets similar to twitter with authentication using the JSON web token. Users can sign up and post tweets, and view other users tweets.",
+    "skills": ["React", "Express", "Node","Tailwind", "MongoDB","Mern Stack", "Auth", "Bcrypt"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
     "title": "Fullstack To-Do List",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React.JS", "MongoDB", "Express", "Node"],
+    "imageSrc": "projects/todo.JPG",
+    "description": "Created a fullstack MERN application to-do list. Stored data using MongoDB.",
+    "skills": ["React.JS", "MongoDB", "Express", "Node", "Mern Stack", "Vercel"],
+    "demo": "https://to-do-list-front-kappa.vercel.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Tic-Tac-Toe",
+    "imageSrc": "projects/tic.JPG",
+    "description": "Created a tic-tac-toe game with stunning UI.",
+    "skills": ["HTML", "CSS", "Javascript"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "Landing Page",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "Created a landing page designed for new muslims.",
+    "skills": ["HTML", "CSS", "Javascript", "Tailwind"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "Personal Portfolio",
+    "imageSrc": "projects/port.JPG",
+    "description": "Created a personal portfolio website demonstrating my projects and experiences.",
+    "skills": ["React (Vite)", "CSS", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Job Finder Mobile App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "Created a mobile app using React-Native for Job Findings.",
+    "skills": ["React-Native", "Tailwind"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Frogger",
+    "imageSrc": "projects/frog.JPG",
+    "description": "Created a clone of frogger using OOP Principles.",
+    "skills": ["Javascript", "P5.JS", "OOP"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }

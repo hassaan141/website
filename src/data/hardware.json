@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Ping Pong Pilot",
+    "imageSrc": "projects/ping.png",
+    "description": "Created a ping pong serving robot using LegoEV3, consisting of motors, ultrasonic, color and     gyro sensor. Coded in C using RobotC",
+    "skills": ["Lego EV3", "Ultrasonic Sensor", "Gyro Sensor ","Color Sensor ", "C", "Robot C"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Touchless Trash Can",
+    "imageSrc": "projects/trash.JPG",
+    "description": "Built a smart trash using an arduino with ultrasonic sensors, buzzers and servo motors, to automate lid movement based on proximity. Created user friendly GUI using the C# and .NET framework to make windows form app for disposal reminders.",
+    "skills": ["Arduio", "Ultrasonic Sensor", "Servo Motors", "C++", "C#"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Vex Robot",
+    "imageSrc": "projects/project.png",
+    "description": "Designed and built a robot using Vex parts and Vex code, which utilized python programming. Implemented autonomous driving which allowed the robot to navigate through the competition field with precision. ",
+    "skills": ["Vex", "Ultrasonic Sensor", "Gyro Sensor ", "Touch Sensor", "Python", "C++", "Robot C"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Walking Stick For The Blinf",
+    "imageSrc": "projects/stick.JPG",
+    "description": "Designed and built a walking stick for the blind which measures distance using an ultrasonic sensor, and sounds using the buzzer to alert distance. ",
+    "skills": ["Arduino", "C++", "Ultrasonic Sensor"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
