@@ -46,6 +46,16 @@
   letter-spacing: 1.5px;
 }
 
+.urlLinks{
+  transition: background-color 0.3s, transform 0.2s; /* Smooth transition for hover effects */
+
+}
+
+.urlLinks:hover{
+  background-color: var(--color-primary-dark); /* Darker shade on hover */
+  transform: scale(1.05); /* Slightly enlarge the button on hover */
+}
+
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column;

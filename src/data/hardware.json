@@ -11,7 +11,7 @@
     "title": "Touchless Trash Can",
     "imageSrc": "projects/trash.JPG",
     "description": "Built a smart trash using an arduino with ultrasonic sensors, buzzers and servo motors, to automate lid movement based on proximity. Created user friendly GUI using the C# and .NET framework to make windows form app for disposal reminders.",
-    "skills": ["Arduio", "Ultrasonic Sensor", "Servo Motors", "C++", "C#"],
+    "skills": ["Arduino", "Ultrasonic Sensor", "Servo Motors", "C++", "C#"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
@@ -24,7 +24,7 @@
     "source": "https://www.github.com"
   },
   {
-    "title": "Walking Stick For The Blinf",
+    "title": "Cane For The Blind",
     "imageSrc": "projects/stick.JPG",
     "description": "Designed and built a walking stick for the blind which measures distance using an ultrasonic sensor, and sounds using the buzzer to alert distance. ",
     "skills": ["Arduino", "C++", "Ultrasonic Sensor"],
