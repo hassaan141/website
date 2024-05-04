@@ -17,8 +17,8 @@
   },
   {
     "title": "Vex Robot",
-    "imageSrc": "projects/project.png",
-    "description": "Designed and built a robot using Vex parts and Vex code, which utilized python programming. Implemented autonomous driving which allowed the robot to navigate through the competition field with precision. ",
+    "imageSrc": "projects/rob.jpg",
+    "description": "Designed and built a robot using Vex parts and Vex code, which utilized python programming. Implemented autonomous driving which allowed the robot to navigate through the competition field with precision. Has a lift elevator using gears and a kicking mechanism. ",
     "skills": ["Vex", "Ultrasonic Sensor", "Gyro Sensor ", "Touch Sensor", "Python", "C++", "Robot C"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
