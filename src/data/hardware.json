@@ -4,16 +4,16 @@
     "imageSrc": "projects/ping.png",
     "description": "Created a ping pong serving robot using LegoEV3, consisting of motors, ultrasonic, color and     gyro sensor. Coded in C using RobotC",
     "skills": ["Lego EV3", "Ultrasonic Sensor", "Gyro Sensor ","Color Sensor ", "C", "Robot C"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://www.kapwing.com/videos/663705540118f32e566ebf8c",
+    "source": "https://github.com/hassaan141/PingPong-Pilot"
   },
   {
     "title": "Touchless Trash Can",
     "imageSrc": "projects/trash.JPG",
     "description": "Built a smart trash using an arduino with ultrasonic sensors, buzzers and servo motors, to automate lid movement based on proximity. Created user friendly GUI using the C# and .NET framework to make windows form app for disposal reminders.",
     "skills": ["Arduino", "Ultrasonic Sensor", "Servo Motors", "C++", "C#"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://www.kapwing.com/videos/663703929bb567e278ff9750",
+    "source": "https://github.com/hassaan141/AutoTrash-3000-Arduino-Project"
   },
   {
     "title": "Vex Robot",
@@ -32,3 +32,4 @@
     "source": "https://www.github.com"
   }
 ]
+
