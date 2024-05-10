@@ -3,8 +3,8 @@
     "title": "BuzzShare -Social Media App",
     "imageSrc": "projects/buzzshare.JPG",
     "description": "Created a social media application where users can post tweets similar to twitter with authentication using the JSON web token. Users can sign up and post tweets, and view other users tweets.",
-    "skills": ["React", "Express", "Node","Tailwind", "MongoDB","Mern Stack", "Auth", "Bcrypt"],
-    "demo": "https://www.example.com",
+    "skills": ["EJS", "Express", "Node","Tailwind", "MongoDB","Mern Stack", "Auth", "Bcrypt"],
+    "demo": "https://buzz-share-rho.vercel.app",
     "source": "https://www.github.com"
   },
   {
