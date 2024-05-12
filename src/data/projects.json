@@ -20,7 +20,7 @@
     "imageSrc": "projects/tic.JPG",
     "description": "Created a tic-tac-toe game with stunning UI.",
     "skills": ["HTML", "CSS", "Javascript"],
-    "demo": "https://www.example.com",
+    "demo": "https://tictactoe-iota-jet.vercel.app/",
     "source": "https://github.com/hassaan141/tictactoe"
   },
   {
@@ -38,14 +38,6 @@
     "skills": ["React (Vite)", "CSS", "Javascript", "JSON"],
     "demo": "https://website-eight-pi-16.vercel.app/",
     "source": "https://github.com/hassaan141/website"
-  },
-  {
-    "title": "Job Finder Mobile App",
-    "imageSrc": "projects/project.png",
-    "description": "Created a mobile app using React-Native for Job Findings.",
-    "skills": ["React-Native", "Tailwind"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
   },
   {
     "title": "Frogger",
