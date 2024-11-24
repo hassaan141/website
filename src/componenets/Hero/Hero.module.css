@@ -32,6 +32,23 @@
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
+.SubTitle {
+  font-size: 42px;
+  font-weight: 900;
+  margin-bottom: 33px;
+  font-family: var(--font-roboto);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 70%,
+    rgba(255, 255, 255, 0) 120%
+  );
+  -webkit-background-clip: text;
+}
+
+.inlineTypewriter{
+  color:rgb(45, 94, 184);
+  display: inline-block
+}
 
 .description {
   font-size: 30px;

@@ -1,0 +1,153 @@
+[
+    {
+      "category": "Frontend Development",
+      "list": [
+        {
+          "title": "HTML5",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
+        },
+        {
+          "title": "CSS3",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+        },
+        {
+          "title": "JavaScript",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+        },
+        {
+          "title": "TypeScript",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+        },
+        {
+          "title": "React.js",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+        },
+        {
+          "title": "Next.js",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"
+        },
+        {
+          "title": "Tailwind CSS",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+        }
+      ]
+    },
+    {
+      "category": "Backend Development",
+      "list": [
+        {
+          "title": "Node.js",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
+        },
+        {
+          "title": "Express.js",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
+        },
+        {
+          "title": "MongoDB",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"
+        },
+        {
+          "title": "PostgreSQL",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
+        },
+        {
+          "title": "Supabase",
+          "imageSrc": "https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png"
+        }
+      ]
+    },
+    {
+      "category": "Machine Learning & AI",
+      "list": [
+        {
+          "title": "Python",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+        },
+        {
+          "title": "YOLO",
+          "imageSrc": "https://seeklogo.com/images/Y/yolo-logo-480716.png"
+        },
+        {
+          "title": "OpenCV",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"
+        },
+        {
+          "title": "Scikit-learn",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+        },
+        {
+          "title": "MediaPipe",
+          "imageSrc": "https://ai.google.dev/images/mediapipe/logo.png"
+        }
+      ]
+    },
+    {
+      "category": "Robotics & Embedded Systems",
+      "list": [
+        {
+          "title": "Arduino",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"
+        },
+        {
+          "title": "ROS2",
+          "imageSrc": "https://raw.githubusercontent.com/ros2/ros2_documentation/foxy/source/ros2_logo.png"
+        },
+        {
+          "title": "Gazebo",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Gazebo_logo.svg"
+        },
+        {
+          "title": "Rviz",
+          "imageSrc": "https://raw.githubusercontent.com/ros-visualization/rviz/master/docs/rviz_logo.png"
+        },
+        {
+          "title": "Xacro",
+          "imageSrc": "https://raw.githubusercontent.com/ros/xacro/master/xacro_logo.png"
+        }
+      ]
+    },
+    {
+      "category": "Developer Tools",
+      "list": [
+        {
+          "title": "Git/GitHub",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
+        },
+        {
+          "title": "Docker",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"
+        },
+        {
+          "title": "Linux",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"
+        },
+        {
+          "title": "Ubuntu",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg"
+        },
+        {
+          "title": "Postman",
+          "imageSrc": "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+        }
+      ]
+    },
+    {
+      "category": "Design & Prototyping",
+      "list": [
+        {
+          "title": "SolidWorks",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/5/5a/SolidWorks_Logo.svg"
+        },
+        {
+          "title": "3D Printing",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/3a/3D_printer_icon.svg"
+        },
+        {
+          "title": "Figma",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
+        }
+      ]
+    }
+  ]
+  
