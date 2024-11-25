@@ -1,9 +1,9 @@
 [
   {
     "title": "NBA Game Prediction Model",
-    "imageSrc": "assets/projects/nba.png",
-    "description": "Developed a NBA game predictor using ridge regression in Python, achieving 64% accuracy. Trained the model using statistics such as field goals, minutes, and shot attempts from the last 10 games against opponents.",
+    "imageSrc": "https://res.cloudinary.com/zenbusiness/image/upload/v1670445040/logaster/logaster-2020-06-image8.png",
+    "description": "Developed an NBA game predictor using ridge regression in Python, achieving 64% accuracy. Trained the model using statistics such as field goals, minutes, and shot attempts from the last 10 games against opponents.",
     "skills": ["Python", "Machine Learning", "Pandas", "Scikit-learn", "NumPy", "Jupyter Notebook"],
     "source": "https://github.com/hassaan141/nbaPredictor"
-}
+  }
 ] 

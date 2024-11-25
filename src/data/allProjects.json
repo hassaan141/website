@@ -1,21 +1,21 @@
 [
     {
       "title": "Gesture Mimic Robot Arm",
-      "imageSrc": "assets/projects/hand.jpg", 
+      "imageSrc": "https://gcdnb.pbrd.co/images/hwH6Sanl8iNF.jpg?o=1", 
       "description": "Developed a gesture-controlled robotic arm using 3D prototyping and Arduino. Utilized OpenCV and MediaPipe in Python for real-time hand tracking and gesture recognition.",
       "skills": ["Arduino", "Python", "3D Printing", "MG-996R Servos", "OpenCV", "MediaPipe"],
       "source": "https://github.com/hassaan141/gestureControlledArm"
     },
     {
       "title": "NBA Game Prediction Model",
-      "imageSrc": "assets/projects/nba.png",
+      "imageSrc": "https://res.cloudinary.com/zenbusiness/image/upload/v1670445040/logaster/logaster-2020-06-image8.png",
       "description": "Developed an NBA game predictor using ridge regression in Python, achieving 64% accuracy. Trained the model using statistics such as field goals, minutes, and shot attempts from the last 10 games against opponents.",
       "skills": ["Python", "Machine Learning", "Pandas", "Scikit-learn", "NumPy", "Jupyter Notebook"],
       "source": "https://github.com/hassaan141/nbaPredictor"
     },
     {
       "title": "BuzzShare -Social Media App",
-      "imageSrc": "assets/projects/buzzshare.jpg",
+      "imageSrc": "https://gcdnb.pbrd.co/images/fC2QfJDitAST.jpg?o=1",
       "description": "Created a social media application where users can post tweets similar to twitter with authentication using the JSON web token. Users can sign up and post tweets, and view other users tweets.",
       "skills": ["EJS", "Express", "Node","Tailwind", "MongoDB","Mern Stack", "Auth", "Bcrypt"],
       "demo": "https://buzz-share-rho.vercel.app/",
@@ -23,7 +23,7 @@
     },
     {
       "title": "Fullstack To-Do List",
-      "imageSrc": "assets/projects/todo.jpg",
+      "imageSrc": "https://gcdnb.pbrd.co/images/IXHf6jHBZ0x4.jpg?o=1",
       "description": "Created a fullstack MERN application to-do list. Stored data using MongoDB.",
       "skills": ["React.JS", "MongoDB", "Express", "Node", "Mern Stack", "Vercel"],
       "demo": "https://to-do-list-front-kappa.vercel.app/",
@@ -31,14 +31,14 @@
     },
     {
       "title": "Ping Pong Pilot",
-      "imageSrc": "assets/projects/ping.png",
+      "imageSrc": "https://gcdnb.pbrd.co/images/GuztWxn5VZe6.png?o=1",
       "description": "Created a ping pong serving robot using LegoEV3, consisting of motors, ultrasonic, color and     gyro sensor. Coded in C using RobotC",
       "skills": ["Lego EV3", "Ultrasonic Sensor", "Gyro Sensor ","Color Sensor ", "C", "Robot C"],
       "source": "https://github.com/hassaan141/PingPong-Pilot"
     },
     {
       "title": "Tic-Tac-Toe",
-      "imageSrc": "assets/projects/tic.jpg",
+      "imageSrc": "https://gcdnb.pbrd.co/images/z6qVgjeLy1x9.jpg?o=1",
       "description": "Created a tic-tac-toe game with stunning UI.",
       "skills": ["HTML", "CSS", "Javascript"],
       "demo": "https://tictactoe-iota-jet.vercel.app/",
@@ -46,7 +46,7 @@
     },
     {
       "title": "Personal Portfolio",
-      "imageSrc": "assets/projects/website.png",
+      "imageSrc": "https://gcdnb.pbrd.co/images/IplcNHUwePTr.png?o=1",
       "description": "Created a personal portfolio website demonstrating my projects and experiences.",
       "skills": ["React (Vite)", "CSS", "Javascript", "JSON"],
       "demo": "https://website-eight-pi-16.vercel.app/",
@@ -54,28 +54,28 @@
     },
     {
       "title": "Touchless Trash Can",
-      "imageSrc": "assets/projects/trash.JPG",
+      "imageSrc": "https://gcdnb.pbrd.co/images/3g9cJFyUUUcc.jpg?o=1",
       "description": "Built a smart trash using an arduino with ultrasonic sensors, buzzers and servo motors, to automate lid movement based on proximity. Created user friendly GUI using the C# and .NET framework to make windows form app for disposal reminders.",
       "skills": ["Arduino", "Ultrasonic Sensor", "Servo Motors", "C++", "C#"],
       "source": "https://github.com/hassaan141/AutoTrash-3000-Arduino-Project"
     },
     {
       "title": "Vex Robot",
-      "imageSrc": "assets/projects/rob.jpg",
+      "imageSrc": "https://gcdnb.pbrd.co/images/KpY7W8qAsdKk.jpg?o=1",
       "description": "Built a robot using Vex, with python. Implemented autonomous driving which allowed the robot to navigate the field with precision. lift elevator using gears and a kicking mechanism. ",
       "skills": ["Vex", "Ultrasonic Sensor", "Gyro Sensor ", "Touch Sensor", "Python", "C++", "Robot C"],
       "source": "https://www.github.com/hassaan141"
     },
     {
       "title": "Cane For The Blind",
-      "imageSrc": "assets/projects/stick.JPG",
+      "imageSrc": "https://gcdnb.pbrd.co/images/ULbpFTpNBtzz.jpg?o=1",
       "description": "Designed and built a walking stick for the blind which measures distance using an ultrasonic sensor, and sounds using the buzzer to alert distance. ",
       "skills": ["Arduino", "C++", "Ultrasonic Sensor"],
       "source": "https://www.github.com/hassaan141"
     },
     {
         "title": "Frogger",
-        "imageSrc": "assets/projects/frog.jpg",
+        "imageSrc": "https://gcdnb.pbrd.co/images/mO4algiA4WOv.jpg?o=1",
         "description": "Created a clone of frogger using OOP Principles.",
         "skills": ["Javascript", "P5.JS", "OOP"],
         "demo": "https://editor.p5js.org/353691868/full/CHUJkpOoQ",
@@ -83,7 +83,7 @@
     },
     {
         "title": "Insertion Sort Visualization",
-        "imageSrc": "assets/projects/sort.png",
+        "imageSrc": "https://i.imgur.com/rdZeiKM.png",
         "description": "Developed an interactive visualization of the insertion sort algorithm using P5.js. Collaborated with Naeem Baig to illustrate the step-by-step sorting process, enhancing understanding of the algorithm.",
         "skills": ["P5.JS", "Javascript", "Algorithm Design", "Collaboration"],
         "demo": "https://editor.p5js.org/353729428/full/uVbeL7dJD", 

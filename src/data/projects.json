@@ -1,50 +1,50 @@
 [
   {
     "title": "BuzzShare -Social Media App",
-    "imageSrc": "assets/projects/buzzshare.jpg",
+    "imageSrc": "https://gcdnb.pbrd.co/images/fC2QfJDitAST.jpg?o=1",
     "description": "Created a social media application where users can post tweets similar to twitter with authentication using the JSON web token. Users can sign up and post tweets, and view other users tweets.",
     "skills": ["EJS", "Express", "Node","Tailwind", "MongoDB","Mern Stack", "Auth", "Bcrypt"],
-    "demo": "https://buzz-share-rho.vercel.app",
+    "demo": "https://buzz-share-rho.vercel.app/",
     "source": "https://www.github.com"
-},
-{
+  },
+  {
     "title": "Fullstack To-Do List",
-    "imageSrc": "assets/projects/todo.jpg",
+    "imageSrc": "https://gcdnb.pbrd.co/images/IXHf6jHBZ0x4.jpg?o=1",
     "description": "Created a fullstack MERN application to-do list. Stored data using MongoDB.",
     "skills": ["React.JS", "MongoDB", "Express", "Node", "Mern Stack", "Vercel"],
     "demo": "https://to-do-list-front-kappa.vercel.app/",
     "source": "https://github.com/hassaan141/to-do-list"
-},
-{
+  },
+  {
     "title": "Tic-Tac-Toe",
-    "imageSrc": "assets/projects/tic.jpg",
+    "imageSrc": "https://gcdnb.pbrd.co/images/z6qVgjeLy1x9.jpg?o=1",
     "description": "Created a tic-tac-toe game with stunning UI.",
     "skills": ["HTML", "CSS", "Javascript"],
     "demo": "https://tictactoe-iota-jet.vercel.app/",
     "source": "https://github.com/hassaan141/tictactoe"
-},
-{
+  },
+  {
     "title": "Personal Portfolio",
-    "imageSrc": "assets/projects/website.png",
+    "imageSrc": "https://gcdnb.pbrd.co/images/IplcNHUwePTr.png?o=1",
     "description": "Created a personal portfolio website demonstrating my projects and experiences.",
     "skills": ["React (Vite)", "CSS", "Javascript", "JSON"],
     "demo": "https://website-eight-pi-16.vercel.app/",
     "source": "https://github.com/hassaan141/website"
-},
-{
+  },
+  {
     "title": "Frogger",
-    "imageSrc": "assets/projects/frog.jpg",
+    "imageSrc": "https://gcdnb.pbrd.co/images/mO4algiA4WOv.jpg?o=1",
     "description": "Created a clone of frogger using OOP Principles.",
     "skills": ["Javascript", "P5.JS", "OOP"],
     "demo": "https://editor.p5js.org/353691868/full/CHUJkpOoQ",
     "source": "https://editor.p5js.org/353691868/full/CHUJkpOoQ"
-},
-{
-  "title": "Insertion Sort Visualization",
-  "imageSrc": "assets/projects/sort.png",
-  "description": "Developed an interactive visualization of the insertion sort algorithm using P5.js. Collaborated with Naeem Baig to illustrate the step-by-step sorting process, enhancing understanding of the algorithm.",
-  "skills": ["P5.JS", "Javascript", "Algorithm Design", "Collaboration"],
-  "demo": "https://editor.p5js.org/353729428/full/uVbeL7dJD", 
-  "source": "https://github.com/Naeem404/Insertion-Sorting-Animation"
-}
+  },
+  {
+    "title": "Insertion Sort Visualization",
+    "imageSrc": "https://i.imgur.com/rdZeiKM.png",
+    "description": "Developed an interactive visualization of the insertion sort algorithm using P5.js. Collaborated with Naeem Baig to illustrate the step-by-step sorting process, enhancing understanding of the algorithm.",
+    "skills": ["P5.JS", "Javascript", "Algorithm Design", "Collaboration"],
+    "demo": "https://editor.p5js.org/353729428/full/uVbeL7dJD", 
+    "source": "https://github.com/Naeem404/Insertion-Sorting-Animation"
+  }
 ]

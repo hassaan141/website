@@ -46,7 +46,7 @@
       "Analyzed survey data to create intuitive data visualizations with graphs on the website through Tremor UI, providing insights from user interactions.",
       "Developed a mobile app using React Native and Tailwind CSS tailored for new Muslim converts."
     ],
-    "imageSrc": "assets/history/iic.png"
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBnRVoVpXIdMpDT8BHUj01jCPlUxuEuMwWSQ&s"
   },
   {
     "id":4,
@@ -60,7 +60,7 @@
       "Built a user-centric front-end dashboard for real-time traffic congestion detection using React (Vite), integrated with a Flask backend."
       
     ],
-    "imageSrc": "assets/history/air.jpeg"
+    "imageSrc": "https://media.licdn.com/dms/image/v2/D560BAQH9goH4SPVDcA/company-logo_200_200/company-logo_200_200/0/1706238285089/scorpiox_technologies_logo?e=2147483647&v=beta&t=RQG1fiPdMelpFsii8-nE7e7sPwg-5FBdt_F4ch0YB2U"
   },
   {
     "id":5,
@@ -85,6 +85,6 @@
       "Collaborated with teachers and staff to evaluate and improve educational programs.",
       "Assisted in budget management, including tracking expenses and reconciling accounts."
     ],
-    "imageSrc": "assets/history/manarat.jpeg"
+    "imageSrc": "https://media.licdn.com/dms/image/v2/D560BAQGy5RPYUbNTRQ/company-logo_200_200/company-logo_200_200/0/1720218447500/al_manarat_islamic_schools_logo?e=2147483647&v=beta&t=N_fe0HhSSvxYizlVQBYLmqd04__Yoes5s13eGuzvJgM"
   }
 ]

@@ -1,38 +1,38 @@
 [
   {
     "title": "Gesture Mimic Robot Arm",
-    "imageSrc": "assets/projects/hand.jpg", 
+    "imageSrc": "https://gcdnb.pbrd.co/images/hwH6Sanl8iNF.jpg?o=1", 
     "description": "Developed a gesture-controlled robotic arm using 3D prototyping and Arduino. Utilized OpenCV and MediaPipe in Python for real-time hand tracking and gesture recognition.",
     "skills": ["Arduino", "Python", "3D Printing", "MG-996R Servos", "OpenCV", "MediaPipe"],
     "source": "https://github.com/hassaan141/gestureControlledArm"
   },
   {
     "title": "Ping Pong Pilot",
-    "imageSrc": "assets/projects/ping.png",
+    "imageSrc": "https://gcdnb.pbrd.co/images/GuztWxn5VZe6.png?o=1",
     "description": "Created a ping pong serving robot using LegoEV3, consisting of motors, ultrasonic, color and     gyro sensor. Coded in C using RobotC",
     "skills": ["Lego EV3", "Ultrasonic Sensor", "Gyro Sensor ","Color Sensor ", "C", "Robot C"],
     "source": "https://github.com/hassaan141/PingPong-Pilot"
   },
   {
     "title": "Touchless Trash Can",
-    "imageSrc": "assets/projects/trash.JPG",
+    "imageSrc": "https://gcdnb.pbrd.co/images/3g9cJFyUUUcc.jpg?o=1",
     "description": "Built a smart trash using an arduino with ultrasonic sensors, buzzers and servo motors, to automate lid movement based on proximity. Created user friendly GUI using the C# and .NET framework to make windows form app for disposal reminders.",
     "skills": ["Arduino", "Ultrasonic Sensor", "Servo Motors", "C++", "C#"],
     "source": "https://github.com/hassaan141/AutoTrash-3000-Arduino-Project"
   },
   {
     "title": "Vex Robot",
-    "imageSrc": "assets/projects/rob.jpg",
+    "imageSrc": "https://gcdnb.pbrd.co/images/KpY7W8qAsdKk.jpg?o=1",
     "description": "Built a robot using Vex, with python. Implemented autonomous driving which allowed the robot to navigate the field with precision. lift elevator using gears and a kicking mechanism. ",
     "skills": ["Vex", "Ultrasonic Sensor", "Gyro Sensor ", "Touch Sensor", "Python", "C++", "Robot C"],
-    "source": "https://www.github.com"
+    "source": "https://www.github.com/hassaan141"
   },
   {
     "title": "Cane For The Blind",
-    "imageSrc": "assets/projects/stick.JPG",
+    "imageSrc": "https://gcdnb.pbrd.co/images/ULbpFTpNBtzz.jpg?o=1",
     "description": "Designed and built a walking stick for the blind which measures distance using an ultrasonic sensor, and sounds using the buzzer to alert distance. ",
     "skills": ["Arduino", "C++", "Ultrasonic Sensor"],
-    "source": "https://www.github.com"
+    "source": "https://www.github.com/hassaan141"
   }
 ]
 
