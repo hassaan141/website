@@ -29,6 +29,10 @@
         {
           "title": "Tailwind CSS",
           "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+        },
+        {
+          "title": "EJS",
+          "imageSrc": "https://www.svgrepo.com/show/373574/ejs.svg"
         }
       ]
     },
@@ -54,6 +58,10 @@
         {
           "title": "Supabase",
           "imageSrc": "https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png"
+        },
+        {
+          "title": "Docker",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"
         }
       ]
     },
@@ -65,8 +73,12 @@
           "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
         },
         {
-          "title": "YOLO",
-          "imageSrc": "https://seeklogo.com/images/Y/yolo-logo-480716.png"
+          "title": "YOLOv8",
+          "imageSrc": "https://miro.medium.com/v2/resize:fit:700/1*FD0qlUzdHlyeqm_7Dj0mpA.png"
+        },
+        {
+          "title": "Numpy",
+          "imageSrc": "https://avatars.githubusercontent.com/u/288276?s=280&v=4"
         },
         {
           "title": "OpenCV",
@@ -78,7 +90,7 @@
         },
         {
           "title": "MediaPipe",
-          "imageSrc": "https://ai.google.dev/images/mediapipe/logo.png"
+          "imageSrc": "assets/skills/mediapipe.png"
         }
       ]
     },
@@ -90,33 +102,78 @@
           "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"
         },
         {
+          "title": "C",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"
+        },
+        {
+          "title": "C++",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"
+        },
+        {
           "title": "ROS2",
-          "imageSrc": "https://raw.githubusercontent.com/ros2/ros2_documentation/foxy/source/ros2_logo.png"
+          "imageSrc": "https://www.daslhub.org/unlv/wiki/lib/exe/fetch.php?w=400&tok=29fd20&media=courses:ros.png"
         },
         {
           "title": "Gazebo",
-          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Gazebo_logo.svg"
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg"
         },
         {
           "title": "Rviz",
-          "imageSrc": "https://raw.githubusercontent.com/ros-visualization/rviz/master/docs/rviz_logo.png"
+          "imageSrc": "https://raw.githubusercontent.com/ros-visualization/rviz/noetic-devel/images/splash.png"
         },
         {
           "title": "Xacro",
-          "imageSrc": "https://raw.githubusercontent.com/ros/xacro/master/xacro_logo.png"
+          "imageSrc": "https://seeklogo.com/images/X/xml-logo-58BFD10607-seeklogo.com.png"
         }
       ]
     },
+    {
+      "category": "Hardware",
+      "list": [
+        {
+          "title": "SolidWorks",
+          "imageSrc": "https://banner2.cleanpng.com/20180425/kqw/ave9q5ayl.webp"
+        },
+        {
+          "title": "3D Printing",
+          "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkz9AVzs92dg2uJLrzpOGZAxXrzjAEnWNoXA&s"
+        },
+        {
+          "title": "Oscilloscope",
+          "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLE8PC7qzyrR0Z1lc__dEoWRqC_A7GnCyZLg&s"
+        },
+        {
+          "title": "DMM (Digital Multimeter)",
+          "imageSrc": "https://avalontest.com/images/thumbs/0002664_keysightagilent-34401a-digital-multimeter_750.png"
+        },
+        {
+          "title": "Arduino",
+          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"
+        },
+        {
+          "title": "Sensors",
+          "imageSrc": "https://shops.wizrobotics.com/cdn/shop/products/HC-SR04_Ultrasonic_Sensor_1200x1200.jpg?v=1562614156"
+        },
+        {
+          "title": "Breadboards",
+          "imageSrc": "https://canada.newark.com/productimages/large/en_US/56T0249-40.jpg"
+        },
+        {
+          "title": "Power Supplies",
+          "imageSrc": "https://www.shutterstock.com/image-vector/power-supply-logo-vector-template-260nw-704056945.jpg"
+        },
+        {
+          "title": "AutoCAD",
+          "imageSrc": "https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png"
+        }
+      ]
+    }, 
     {
       "category": "Developer Tools",
       "list": [
         {
           "title": "Git/GitHub",
           "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"
-        },
-        {
-          "title": "Docker",
-          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"
         },
         {
           "title": "Linux",
@@ -129,23 +186,14 @@
         {
           "title": "Postman",
           "imageSrc": "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-        }
-      ]
-    },
-    {
-      "category": "Design & Prototyping",
-      "list": [
-        {
-          "title": "SolidWorks",
-          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/5/5a/SolidWorks_Logo.svg"
-        },
-        {
-          "title": "3D Printing",
-          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/3a/3D_printer_icon.svg"
         },
         {
           "title": "Figma",
           "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
+        },
+        {
+          "title": "VScode",
+          "imageSrc": "https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png"
         }
       ]
     }

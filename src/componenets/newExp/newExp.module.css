@@ -1,0 +1,48 @@
+@import "../../vars.css";
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 50px;
+    position: rlative;
+    z-index: 1;
+    align-items: center;
+}
+
+.wrapper{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    max-width: 1100px;
+    gap: 12px;
+    @media (max-width: 960px) {
+      flex-direction: column;
+    }
+}
+
+.title{
+    font-size: 62px;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 40px;
+    color: white;
+    @media (max-width: 768px) {
+      margin-top: 12px;
+      font-size: 32px;
+    }
+}
+
+.desc{
+    font-size: 24px;
+    text-align: center;
+    font-weight: 600;
+    color: var(--color-secondary);
+    @media (max-width: 768px) {
+      font-size: 16px;
+    }
+
+}

@@ -1,30 +1,90 @@
 [
   {
-    "role": "Tech Team Lead",
-    "organisation": "UW IIC",
-    "startDate": "Jan, 2024",
+    "id":0,
+    "role": "Member",
+    "organisation": "Humanoid Collective",
+    "startDate": "Nov, 2024",
     "endDate": "Present",
-    "experiences": ["Maintaining and enhancing the IIC website using React, Next.js, Tailwind CSS, Chakra UI, and Node.js, implementing new features and optimizing the user interface for an enhanced user experience.", "Analyzing survey data to create intuitive data visualizations with graphs on the website through Tremor UI, providing insights from user interactions.", "Developing a mobile app using React Native and Tailwind CSS tailored for new Muslim converts."],
-    "imageSrc": "history/iic.png"
+    "experiences": [
+      "Collaborating on the development of a humanoid robot capable of performing human-like movements and interactions."
+    ],
+    "imageSrc": "https://img.freepik.com/free-photo/solid-navy-blue-concrete-textured-wall_53876-124584.jpg"
   },
   {
+    "id":1,
     "role": "Software Developer Intern",
-    "organisation": "Air Matrix",
-    "startDate": "Jan, 2024",
-    "endDate": "April, 2024",
-    "experiences": ["Developed an AI traffic detection model using YOLOv8 for vehicle classification, achieving 95% accuracy in identifying traffic patterns and vehicle types.", "Built a responsive front-end for a Traffic Congestion Detection application using React and Vite, integrated with a Flask backend for real-time data updates.", "Managed version control and deployment using Git/GitHub, and deployed the application on AWS for enhanced accessibility and scalability."],
-    "imageSrc": "history/air.jpeg"
+    "organisation": "ISARA Corporation",
+    "startDate": "Sep, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Architecting a quantum cryptography network analysis application to mitigate quantum computing threats and improve encryption safety using React.js, Node.js, PostgreSQL, and Docker.",
+      "Integrating security protocols (e.g., TLS, TCP/IP) to ensure accurate scoring for customer security assessments and reinforce overall system security.",
+      "Debugging and optimizing network protocol scoring to improve accuracy and reliability of network safety."
+    ],
+    "imageSrc": "https://media.licdn.com/dms/image/v2/C4E0BAQGtD3ywxxNCDQ/company-logo_200_200/company-logo_200_200/0/1631373922573/isara_corporation_logo?e=2147483647&v=beta&t=nQClFVA_V5cpn2yqYOnaIMOWNdTgVI0I00XjiYUzR2c"
   },
   {
+    "id":2,
+    "role": "Autonomous Vehicle Software Developer",
+    "organisation": "WATonomous",
+    "startDate": "Sep, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Contributing to the development of a fully autonomous car capable of safely navigating urban streets.",
+      "Implemented world modeling algorithms using ROS2, Docker, Linux, and Fargolive to create real-time environmental maps for navigation and decision-making."
+    ],
+    "imageSrc": "https://media.licdn.com/dms/image/v2/D560BAQF0E_bIzj8zWA/company-logo_200_200/company-logo_200_200/0/1694672314358/watonomous_logo?e=2147483647&v=beta&t=XPvHLey5icKd2fucoSmvHaRfqAMs7RjVIjPo-b5hu7M"
+  },
+  {
+    "id":3,
+    "role": "Tech Team Lead",
+    "organisation": "University of Waterloo Islamic Information Center",
+    "startDate": "Jan, 2024",
+    "endDate": "Apr, 2024",
+    "experiences": [
+      "Enhanced the IIC website using React, Next.js, Tailwind CSS, Chakra UI, and Node.js, implementing new features and optimizing the user interface for an enhanced user experience.",
+      "Analyzed survey data to create intuitive data visualizations with graphs on the website through Tremor UI, providing insights from user interactions.",
+      "Developed a mobile app using React Native and Tailwind CSS tailored for new Muslim converts."
+    ],
+    "imageSrc": "assets/history/iic.png"
+  },
+  {
+    "id":4,
+    "role": "Software Developer Intern",
+    "organisation": "AirMatrix",
+    "startDate": "Jan, 2024",
+    "endDate": "Apr, 2024",
+    "experiences": [
+      "Labeled and annotated over 3,000 images, classifying vehicle types to enhance the training of the AI traffic detection model.",
+      "Developed an AI traffic detection model using YOLOv8 for vehicle classification, achieving 95% accuracy in identifying traffic patterns and vehicle types.",
+      "Built a user-centric front-end dashboard for real-time traffic congestion detection using React (Vite), integrated with a Flask backend."
+      
+    ],
+    "imageSrc": "assets/history/air.jpeg"
+  },
+  {
+    "id":5,
+    "role": "Mechanical and Firmware Member",
+    "organisation": "Electrium Mobility",
+    "startDate": "Sep, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": [
+      "Designed and developed electric micro-mobility vehicles, including electric bikes, scooters, and skateboards.",
+      "Created an HTTP Espressif server for our ESP32 to enable communication and data exchange between the microcontroller and external devices."
+    ],
+    "imageSrc": "https://avatars.githubusercontent.com/u/121077012?s=280&v=4"
+  },
+  {
+    "id":6,
     "role": "Teacher Assistant and Admin",
     "organisation": "Al Manarat",
     "startDate": "Jul, 2022",
     "endDate": "Aug, 2022",
     "experiences": [
-      "Created tests, projects, assignments and worksheets for kids ranging from age 10-12.",
+      "Created tests, projects, assignments, and worksheets for kids ranging from age 10-12.",
       "Collaborated with teachers and staff to evaluate and improve educational programs.",
       "Assisted in budget management, including tracking expenses and reconciling accounts."
     ],
-    "imageSrc": "history/manarat.jpeg"
+    "imageSrc": "assets/history/manarat.jpeg"
   }
 ]

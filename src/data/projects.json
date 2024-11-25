@@ -1,50 +1,50 @@
 [
   {
     "title": "BuzzShare -Social Media App",
-    "imageSrc": "projects/buzzshare.JPG",
+    "imageSrc": "assets/projects/buzzshare.jpg",
     "description": "Created a social media application where users can post tweets similar to twitter with authentication using the JSON web token. Users can sign up and post tweets, and view other users tweets.",
     "skills": ["EJS", "Express", "Node","Tailwind", "MongoDB","Mern Stack", "Auth", "Bcrypt"],
     "demo": "https://buzz-share-rho.vercel.app",
     "source": "https://www.github.com"
-  },
-  {
+},
+{
     "title": "Fullstack To-Do List",
-    "imageSrc": "projects/todo.JPG",
+    "imageSrc": "assets/projects/todo.jpg",
     "description": "Created a fullstack MERN application to-do list. Stored data using MongoDB.",
     "skills": ["React.JS", "MongoDB", "Express", "Node", "Mern Stack", "Vercel"],
     "demo": "https://to-do-list-front-kappa.vercel.app/",
     "source": "https://github.com/hassaan141/to-do-list"
-  },
-  {
+},
+{
     "title": "Tic-Tac-Toe",
-    "imageSrc": "projects/tic.JPG",
+    "imageSrc": "assets/projects/tic.jpg",
     "description": "Created a tic-tac-toe game with stunning UI.",
     "skills": ["HTML", "CSS", "Javascript"],
     "demo": "https://tictactoe-iota-jet.vercel.app/",
     "source": "https://github.com/hassaan141/tictactoe"
-  },
-  {
-    "title": "Landing Page",
-    "imageSrc": "projects/project.png",
-    "description": "Created a landing page designed for new muslims.",
-    "skills": ["HTML", "CSS", "Javascript", "Tailwind"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/hassaan141/Tailwind-Tut"
-  },
-  {
+},
+{
     "title": "Personal Portfolio",
-    "imageSrc": "projects/port.JPG",
+    "imageSrc": "assets/projects/website.png",
     "description": "Created a personal portfolio website demonstrating my projects and experiences.",
     "skills": ["React (Vite)", "CSS", "Javascript", "JSON"],
     "demo": "https://website-eight-pi-16.vercel.app/",
     "source": "https://github.com/hassaan141/website"
-  },
-  {
+},
+{
     "title": "Frogger",
-    "imageSrc": "projects/frog.JPG",
+    "imageSrc": "assets/projects/frog.jpg",
     "description": "Created a clone of frogger using OOP Principles.",
     "skills": ["Javascript", "P5.JS", "OOP"],
     "demo": "https://editor.p5js.org/353691868/full/CHUJkpOoQ",
     "source": "https://editor.p5js.org/353691868/full/CHUJkpOoQ"
-  }
+},
+{
+  "title": "Insertion Sort Visualization",
+  "imageSrc": "assets/projects/sort.png",
+  "description": "Developed an interactive visualization of the insertion sort algorithm using P5.js. Collaborated with Naeem Baig to illustrate the step-by-step sorting process, enhancing understanding of the algorithm.",
+  "skills": ["P5.JS", "Javascript", "Algorithm Design", "Collaboration"],
+  "demo": "https://editor.p5js.org/353729428/full/uVbeL7dJD", 
+  "source": "https://github.com/Naeem404/Insertion-Sorting-Animation"
+}
 ]

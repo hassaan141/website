@@ -5,7 +5,9 @@ import { About } from './componenets/About/About';
 import { Experience } from './componenets/Experience/Experience';
 import { Projects } from './componenets/Projects/Projects';
 import { Contact } from './componenets/Contact/Contact';
-import {Languages} from './componenets/Skills/Languages'
+import {Languages} from './componenets/Skills/Languages';
+import {NewExp} from './componenets/newExp/newExp';
+import { NewProj } from './componenets/newProjects/newProjects';
 import { AnimatedBackground } from 'animated-backgrounds';
 
 function App() {
@@ -26,10 +28,12 @@ function App() {
         />
         <Navbar/>
         <Hero/>
-        <Languages/>
         <About/>
-        <Experience/>
-        <Projects/>
+        <Languages/>
+        <NewExp/>
+        <NewProj/>
+        {/* <Experience/> */}
+        {/* <Projects/> */}
         <Contact/>
       </div>
    

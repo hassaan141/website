@@ -1,34 +1,37 @@
 [
   {
+    "title": "Gesture Mimic Robot Arm",
+    "imageSrc": "assets/projects/hand.jpg", 
+    "description": "Developed a gesture-controlled robotic arm using 3D prototyping and Arduino. Utilized OpenCV and MediaPipe in Python for real-time hand tracking and gesture recognition.",
+    "skills": ["Arduino", "Python", "3D Printing", "MG-996R Servos", "OpenCV", "MediaPipe"],
+    "source": "https://github.com/hassaan141/gestureControlledArm"
+  },
+  {
     "title": "Ping Pong Pilot",
-    "imageSrc": "projects/ping.png",
+    "imageSrc": "assets/projects/ping.png",
     "description": "Created a ping pong serving robot using LegoEV3, consisting of motors, ultrasonic, color and     gyro sensor. Coded in C using RobotC",
     "skills": ["Lego EV3", "Ultrasonic Sensor", "Gyro Sensor ","Color Sensor ", "C", "Robot C"],
-    "demo": "https://www.kapwing.com/videos/663705540118f32e566ebf8c",
     "source": "https://github.com/hassaan141/PingPong-Pilot"
   },
   {
     "title": "Touchless Trash Can",
-    "imageSrc": "projects/trash.JPG",
+    "imageSrc": "assets/projects/trash.JPG",
     "description": "Built a smart trash using an arduino with ultrasonic sensors, buzzers and servo motors, to automate lid movement based on proximity. Created user friendly GUI using the C# and .NET framework to make windows form app for disposal reminders.",
     "skills": ["Arduino", "Ultrasonic Sensor", "Servo Motors", "C++", "C#"],
-    "demo": "https://www.kapwing.com/videos/663703929bb567e278ff9750",
     "source": "https://github.com/hassaan141/AutoTrash-3000-Arduino-Project"
   },
   {
     "title": "Vex Robot",
-    "imageSrc": "projects/rob.jpg",
-    "description": "Designed and built a robot using Vex parts and Vex code, which utilized python programming. Implemented autonomous driving which allowed the robot to navigate through the competition field with precision. Has a lift elevator using gears and a kicking mechanism. ",
+    "imageSrc": "assets/projects/rob.jpg",
+    "description": "Built a robot using Vex, with python. Implemented autonomous driving which allowed the robot to navigate the field with precision. lift elevator using gears and a kicking mechanism. ",
     "skills": ["Vex", "Ultrasonic Sensor", "Gyro Sensor ", "Touch Sensor", "Python", "C++", "Robot C"],
-    "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
     "title": "Cane For The Blind",
-    "imageSrc": "projects/stick.JPG",
+    "imageSrc": "assets/projects/stick.JPG",
     "description": "Designed and built a walking stick for the blind which measures distance using an ultrasonic sensor, and sounds using the buzzer to alert distance. ",
     "skills": ["Arduino", "C++", "Ultrasonic Sensor"],
-    "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
 ]

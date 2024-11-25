@@ -1,0 +1,124 @@
+@import "../../vars.css";
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 50px;
+    padding: 0px 16px;
+    position: relative;
+    z-index: 1;
+    align-items: center;
+}
+
+.wrapper{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    max-width: 1100px;
+    gap: 12px;
+    @media (max-width: 960px) {
+      flex-direction: column;
+    }
+}
+
+.title{
+    font-size: 62px;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 40px;
+    color: white;
+    @media (max-width: 768px) {
+      margin-top: 12px;
+      font-size: 32px;
+    }
+}
+
+.desc{
+    font-size: 24px;
+    text-align: center;
+    font-weight: 600;
+    color: var(--color-secondary);
+    @media (max-width: 768px) {
+      font-size: 16px;
+    }
+
+}
+
+.buttonGroup {
+  margin-top: 20px;
+  display: flex;
+  gap: 12px;
+  padding: 10px;
+  border-radius: 16px;
+  border: none;
+}
+
+
+.buttonGroup button {
+  font-size: 18px;
+  padding: 10px 20px;
+  color: #bbb;
+  background-color: transparent;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+  position: relative;
+  
+}
+
+.buttonGroup button:hover {
+  color: #fff;
+  box-shadow: 0 4px 15px rgba(23, 12, 187, 0.6), 0 0 10px rgba(1, 74, 231, 0.8);
+  transform: translateY(-2px);
+}
+
+.buttonGroup button::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 8px;
+  padding: 2px;
+  background: linear-gradient(90deg, #0e24e2, #007bff, #261ace);
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: destination-out;
+  mask-composite: exclude;
+  animation: borderGlow 3s linear infinite;
+ 
+}
+
+@keyframes borderGlow {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+
+@media (max-width: 768px) {
+  .title {
+    margin-top: 12px;
+    font-size: 32px;
+  }
+  .desc {
+    font-size: 16px;
+  }
+  .buttonGroup {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+}
+
+.projectCard{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 28px;
+  flex-wrap: wrap;
+}
