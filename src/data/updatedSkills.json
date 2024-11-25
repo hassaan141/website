@@ -61,11 +61,11 @@
         },
         {
           "title": "Docker",
-          "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"
+          "imageSrc": "https://banner2.cleanpng.com/20180802/ipp/c26b0dc2951a5195ae50c46f6be2544e.webp"
         },
         {
           "title": "Vercel",
-          "imageSrc": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821"
+          "imageSrc": "https://www.svgrepo.com/show/361653/vercel-logo.svg"
         }
       ]
     },
@@ -94,7 +94,7 @@
         },
         {
           "title": "MediaPipe",
-          "imageSrc": "assets/skills/mediapipe.png"
+          "imageSrc": "https://viz.mediapipe.dev/logo.png"
         }
       ]
     },
