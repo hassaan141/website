@@ -56,6 +56,10 @@
           "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
         },
         {
+          "title": "ElasticSearch",
+          "imageSrc": "https://www.geekandjob.com/uploads/wiki/0a7265aa99f1c2f9bb9c56bb512923f2ac5715cd.png"
+        },
+        {
           "title": "Supabase",
           "imageSrc": "https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png"
         },
