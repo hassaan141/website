@@ -1,7 +1,7 @@
 [
   {
     "title": "SLAM ROS2 Robot Simulation",
-    "imageSrc": "https://imgur.com/a/XUn2NKf", 
+    "imageSrc": "https://i.imgur.com/GcBHbAP.png", 
     "description": "Simulated a differential drive robot in ROS2 with Rviz, Gazebo, camera, and 2D LIDAR, generating point clouds and using SLAM Toolbox for mapping and localization. Controlled on a PS4 controller using the joy package, while using the ros2_control framework with hardware interfaces.",
     "skills": ["Linux", "ROS2", "Python", "Gazebo", "Rviz2", "Xacro", "Camera", "Lidar"],
     "demo": "https://www.youtube.com/watch?v=k7NKa-ceQI0",
