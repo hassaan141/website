@@ -1,7 +1,7 @@
 [
   {
     "title": "ROS2 Differential Drive Robot on Raspberry Pi 4",
-    "imageSrc": "https://i.imgur.com/d4c8GgJ.jpeg",
+    "imageSrc": "https://i.imgur.com/d7pztJB.jpeg",
     "description": "Developed a real-world differential drive robot using ROS2, Ubuntu (ARM64), and Raspberry Pi 4. Integrated Arduino-based motor control with ROS2 hardware interfaces, enabling teleoperation via the teleop_twist_keyboard package. Implemented custom nodes in Python and C++ for velocity control and sensor data processing.",
     "skills": ["ROS2", "Linux (Ubuntu)", "Raspberry Pi 4", "Python", "C++", "Arduino", "Differential Drive"],
     "demo": "https://youtu.be/dKlBclM9tSA",
