@@ -17,7 +17,7 @@
     },
     {
       "title": "Gesture Mimic Robot Arm",
-      "imageSrc": "https://gcdnb.pbrd.co/images/hwH6Sanl8iNF.jpg?o=1", 
+      "imageSrc": "https://i.imgur.com/ufwKbEp.jpeg", 
       "description": "Developed a gesture-controlled robotic arm using 3D prototyping and Arduino. Utilized OpenCV and MediaPipe in Python for real-time hand tracking and gesture recognition.",
       "skills": ["Arduino", "Python", "3D Printing", "MG-996R Servos", "OpenCV", "MediaPipe"],
       "source": "https://github.com/hassaan141/gestureControlledArm"
@@ -31,7 +31,7 @@
     },
     {
       "title": "BuzzShare -Social Media App",
-      "imageSrc": "https://gcdnb.pbrd.co/images/fC2QfJDitAST.jpg?o=1",
+      "imageSrc": "https://i.imgur.com/0ocBqdW.png",
       "description": "Created a social media application where users can post tweets similar to twitter with authentication using the JSON web token. Users can sign up and post tweets, and view other users tweets.",
       "skills": ["EJS", "Express", "Node","Tailwind", "MongoDB","Mern Stack", "Auth", "Bcrypt"],
       "demo": "https://buzz-share-rho.vercel.app/",
@@ -39,7 +39,7 @@
     },
     {
       "title": "Fullstack To-Do List",
-      "imageSrc": "https://gcdnb.pbrd.co/images/IXHf6jHBZ0x4.jpg?o=1",
+      "imageSrc": "https://i.imgur.com/TPryZyN.png",
       "description": "Created a fullstack MERN application to-do list. Stored data using MongoDB.",
       "skills": ["React.JS", "MongoDB", "Express", "Node", "Mern Stack", "Vercel"],
       "demo": "https://to-do-list-front-kappa.vercel.app/",
@@ -54,7 +54,7 @@
     },
     {
       "title": "Tic-Tac-Toe",
-      "imageSrc": "https://gcdnb.pbrd.co/images/z6qVgjeLy1x9.jpg?o=1",
+      "imageSrc": "https://i.imgur.com/0voTzly.png",
       "description": "Created a tic-tac-toe game with stunning UI.",
       "skills": ["HTML", "CSS", "Javascript"],
       "demo": "https://tictactoe-iota-jet.vercel.app/",
@@ -62,7 +62,7 @@
     },
     {
       "title": "Personal Portfolio",
-      "imageSrc": "https://gcdnb.pbrd.co/images/IplcNHUwePTr.png?o=1",
+      "imageSrc": "https://i.imgur.com/fCHkBHT.png",
       "description": "Created a personal portfolio website demonstrating my projects and experiences.",
       "skills": ["React (Vite)", "CSS", "Javascript", "JSON"],
       "demo": "https://website-eight-pi-16.vercel.app/",
@@ -77,7 +77,7 @@
     },
     {
       "title": "Vex Robot",
-      "imageSrc": "https://gcdnb.pbrd.co/images/KpY7W8qAsdKk.jpg?o=1",
+      "imageSrc": "https://i.imgur.com/GIgnyTc.png",
       "description": "Built a robot using Vex, with python. Implemented autonomous driving which allowed the robot to navigate the field with precision. lift elevator using gears and a kicking mechanism. ",
       "skills": ["Vex", "Ultrasonic Sensor", "Gyro Sensor ", "Touch Sensor", "Python", "C++", "Robot C"],
       "source": "https://www.github.com/hassaan141"
@@ -91,7 +91,7 @@
     },
     {
         "title": "Frogger",
-        "imageSrc": "https://gcdnb.pbrd.co/images/mO4algiA4WOv.jpg?o=1",
+        "imageSrc": "https://i.imgur.com/ggCoGyC.png",
         "description": "Created a clone of frogger using OOP Principles.",
         "skills": ["Javascript", "P5.JS", "OOP"],
         "demo": "https://editor.p5js.org/353691868/full/CHUJkpOoQ",
