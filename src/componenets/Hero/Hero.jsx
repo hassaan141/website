@@ -31,8 +31,8 @@ export const Hero = () => {
         <p className={styles.description}>
         I am a Mechatronics student at the University of Waterloo, where I blend mechanical and electronic engineering to innovate and solve complex problems. I have a strong interest in full-stack development, web development and robotics.
         </p>
-        <a href="#contact" className={styles.contactBtn}>
-          Contact Me
+        <a href="https://drive.google.com/file/d/1BtreiWJGAbflmU2p4khMq-xRJPk3WvTL/view?usp=sharing" target="_blank">
+          Resume
         </a>
       </div>
       <img
