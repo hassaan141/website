@@ -32,7 +32,7 @@ export const Hero = () => {
         I am a Mechatronics student at the University of Waterloo, where I blend mechanical and electronic engineering to innovate and solve complex problems. I have a strong interest in full-stack development, web development and robotics.
         </p>
         <a href="https://drive.google.com/file/d/1BtreiWJGAbflmU2p4khMq-xRJPk3WvTL/view?usp=sharing" target="_blank" className={styles.contactBtn}>
-          Resume
+          Check Out My Resume!
         </a>
       </div>
       <img
