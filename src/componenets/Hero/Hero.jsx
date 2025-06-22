@@ -8,7 +8,7 @@ import Typewriter from "typewriter-effect";
 const strings = [
   "Humanoid Robots",
   "Robot Arms",
-  "Robot Simulations"
+  "Robot Simulations",
   "Autonomous Systems",
   "Physical AI",
 ];
