@@ -6,10 +6,11 @@ import Typewriter from "typewriter-effect";
 
 
 const strings = [
-  "Robots",
+  "Humanoid Robots",
+  "Robot Arms",
+  "Robot Simulations"
   "Autonomous Systems",
   "Physical AI",
-  "Robot Simulations"
 ];
 
 export const Hero = () => {
