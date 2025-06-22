@@ -5,11 +5,14 @@ import styled from "styled-components"
 import Typewriter from "typewriter-effect";
 
 
-const strings = ["Mechatronics Student", "Full-Stack Developer", "Robotics Enthusiast"];
+const strings = [
+  "Robots",
+  "Autonomous Systems",
+  "Physical AI",
+  "Robot Simulations"
+];
 
 export const Hero = () => {
-
-
 
   return (
     <section className={styles.container} >
@@ -17,7 +20,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Muhammad</h1>
         <h3 className={styles.SubTitle}>
-          I am a&nbsp; 
+          I Build&nbsp; 
           <span className={styles.inlineTypewriter}>
             <Typewriter
               options={{
@@ -29,9 +32,9 @@ export const Hero = () => {
           </span>
         </h3>
         <p className={styles.description}>
-        I am a Mechatronics student at the University of Waterloo, where I blend mechanical and electronic engineering to innovate and solve complex problems. I have a strong interest in full-stack development, web development and robotics.
+          I'm a Mechatronics Engineering student at the University of Waterloo, passionate about building intelligent, embodied systems. I focus on humanoid robotics and physical AI—developing behavior layers, perception pipelines, and planning systems that bring robots to life in the real world.
         </p>
-        <a href="https://drive.google.com/file/d/1BtreiWJGAbflmU2p4khMq-xRJPk3WvTL/view?usp=sharing" target="_blank" className={styles.contactBtn}>
+        <a href="https://drive.google.com/file/d/1i_8ySvmLb_TI-CTxdAV8I0uQNX8a-PLr/view?usp=sharing" target="_blank" className={styles.contactBtn}>
           Check Out My Resume!
         </a>
       </div>

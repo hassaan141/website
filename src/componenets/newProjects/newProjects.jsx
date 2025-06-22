@@ -32,13 +32,13 @@ export const NewProj = () => {
             <div className={styles.wrapper}>
                 <h2 className={styles.title}>Projects</h2>
                 <p className={styles.desc}>Take a look at some of my projects in frontend, fullstack, robotics and embedded systems.</p>
-            
+{/*             
                 <div className={styles.buttonGroup}>
                     <button onClick={()=> setProjects("all")}>All</button>
                     <button onClick={()=> setProjects("software")}>Software</button>
                     <button onClick={()=> setProjects("robotics")}>Robotics</button>
                     <button onClick={()=> setProjects("machine-learning")}>Machine Learning</button>
-                </div>
+                </div> */}
 
                 <div className={styles.projectCard}>
                     {projectsList.map((project)=>{

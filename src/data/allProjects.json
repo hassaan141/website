@@ -1,4 +1,27 @@
 [
+    
+    {
+      "title": "Humanoid Robot (Ongoing)",
+      "imageSrc": "https://media.istockphoto.com/id/1159865324/vector/cartoon-robot-hand-drawn-vector-illustration-doodle.jpg?s=612x612&w=0&k=20&c=pMnhNngSJ6kFQhJB7QIqltK7nYKfvkttMaNV17itIe8=",
+      "description": "Ongoing development of a 3D voxel-based costmap for a humanoid robot as part of the behavior team. Implemented ROS2 nodes to subscribe to Intel RealSense depth camera streams, generate point clouds, and construct a dynamic voxel grid for real-time obstacle mapping. Researching spatial representations for navigation and terrain analysis in uneven environments.",
+      "skills": ["ROS2", "Intel RealSense", "PointCloud", "Voxel Grid", "Navigation", "Robot Perception", "C++", "Python"],
+      "demo": "",
+      "source": ""
+    },
+    {
+      "title": "Watonomous Vehicle Perception",
+      "imageSrc": "https://www.watonomous.ca/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftimeline_08.4af93138.jpg&w=2048&q=75",
+      "description": "Developed perception modules for a self-driving car with WATonomous. Trained a Variational Autoencoder (VAE) using PyTorch on the nuScenes dataset for anomaly detection. Integrated custom odometry nodes in ROS2 for CARLA simulation using dummy encoders and a bicycle model. Visualized output using Foxglove.",
+      "skills": ["PyTorch", "ROS2", "CARLA", "Foxglove", "Autonomy", "VAE", "Perception"],
+      "source": "https://github.com/watonomous"
+    },
+    {
+      "title": "LeRobot SO-100 Drawing Arm with Imitation Learning (v1)",
+      "imageSrc": "https://i.ibb.co/PzhWhB5Q/armSO.png",
+      "description": "Trained a SO-100 robotic arm using imitation learning to reproduce human drawings. Fine-tuned smolVLA model on HuggingFace for vision-language alignment. Deployed real-time demos using the LeRobot SDK. Explored sample-efficient human-in-the-loop learning.",
+      "skills": ["Imitation Learning", "LeRobot SDK", "smolVLA", "HuggingFace", "Python", "Vision-Language Models"],
+      "demo": "https://www.youtube.com/watch?v=k7NKa-ceQI0"
+    },
     {
       "title": "ROS2 Differential Drive Robot on Raspberry Pi 4",
       "imageSrc": "https://i.imgur.com/d7pztJB.jpeg",
@@ -21,6 +44,14 @@
       "description": "Developed a gesture-controlled robotic arm using 3D prototyping and Arduino. Utilized OpenCV and MediaPipe in Python for real-time hand tracking and gesture recognition.",
       "skills": ["Arduino", "Python", "3D Printing", "MG-996R Servos", "OpenCV", "MediaPipe"],
       "source": "https://github.com/hassaan141/gestureControlledArm"
+    },
+    {
+      "title": "YOLOv8 Lego Brick Measuring Device",
+      "imageSrc": "https://i.ibb.co/QvYQCMQz/lego.png",
+      "description": "Designed a vision-based system to detect and measure Lego bricks in real time. Trained a YOLOv8 model on a custom dataset of annotated Lego pieces for accurate detection. Integrated OpenCV-based measurement using pixel-to-cm calibration and bounding box data. Developed a live UI overlay for visualizing dimensions during inference.",
+      "skills": ["YOLOv8", "OpenCV", "Computer Vision", "Object Detection", "Python", "Measurement"],
+      "demo": "",
+      "source": "https://github.com/hassaan141/lego-size-detection"
     },
     {
       "title": "NBA Game Prediction Model",
@@ -47,7 +78,7 @@
     },
     {
       "title": "Ping Pong Pilot",
-      "imageSrc": "https://gcdnb.pbrd.co/images/GuztWxn5VZe6.png?o=1",
+      "imageSrc": "https://i.ibb.co/qtDxM8T/pingpong.png",
       "description": "Created a ping pong serving robot using LegoEV3, consisting of motors, ultrasonic, color and     gyro sensor. Coded in C using RobotC",
       "skills": ["Lego EV3", "Ultrasonic Sensor", "Gyro Sensor ","Color Sensor ", "C", "Robot C"],
       "source": "https://github.com/hassaan141/PingPong-Pilot"
@@ -69,24 +100,10 @@
       "source": "https://github.com/hassaan141/website"
     },
     {
-      "title": "Touchless Trash Can",
-      "imageSrc": "https://gcdnb.pbrd.co/images/3g9cJFyUUUcc.jpg?o=1",
-      "description": "Built a smart trash using an arduino with ultrasonic sensors, buzzers and servo motors, to automate lid movement based on proximity. Created user friendly GUI using the C# and .NET framework to make windows form app for disposal reminders.",
-      "skills": ["Arduino", "Ultrasonic Sensor", "Servo Motors", "C++", "C#"],
-      "source": "https://github.com/hassaan141/AutoTrash-3000-Arduino-Project"
-    },
-    {
       "title": "Vex Robot",
       "imageSrc": "https://i.imgur.com/GIgnyTc.png",
       "description": "Built a robot using Vex, with python. Implemented autonomous driving which allowed the robot to navigate the field with precision. lift elevator using gears and a kicking mechanism. ",
       "skills": ["Vex", "Ultrasonic Sensor", "Gyro Sensor ", "Touch Sensor", "Python", "C++", "Robot C"],
-      "source": "https://www.github.com/hassaan141"
-    },
-    {
-      "title": "Cane For The Blind",
-      "imageSrc": "https://gcdnb.pbrd.co/images/ULbpFTpNBtzz.jpg?o=1",
-      "description": "Designed and built a walking stick for the blind which measures distance using an ultrasonic sensor, and sounds using the buzzer to alert distance. ",
-      "skills": ["Arduino", "C++", "Ultrasonic Sensor"],
       "source": "https://www.github.com/hassaan141"
     },
     {

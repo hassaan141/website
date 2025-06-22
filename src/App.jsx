@@ -28,10 +28,10 @@ function App() {
         />
         <Navbar/>
         <Hero/>
-        <About/>
+        {/* <About/> */}
+        <NewProj/>
         <Languages/>
         <NewExp/>
-        <NewProj/>
         {/* <Experience/> */}
         {/* <Projects/> */}
         <Contact/>

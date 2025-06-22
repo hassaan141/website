@@ -2,7 +2,7 @@
 
 .projectCard {
     width: 450px;
-    height: 500px;
+   min-height: 320px; /* Optional: sets a sensible minimum height */
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
