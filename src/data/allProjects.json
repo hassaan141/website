@@ -20,7 +20,7 @@
       "imageSrc": "https://i.ibb.co/PzhWhB5Q/armSO.png",
       "description": "Trained a SO-100 robotic arm using imitation learning to reproduce human drawings. Fine-tuned smolVLA model on HuggingFace for vision-language alignment. Deployed real-time demos using the LeRobot SDK. Explored sample-efficient human-in-the-loop learning.",
       "skills": ["Imitation Learning", "LeRobot SDK", "smolVLA", "HuggingFace", "Python", "Vision-Language Models"],
-      "demo": "https://www.youtube.com/watch?v=k7NKa-ceQI0"
+      "demo": "https://www.youtube.com/shorts/hEjpeJSYPPo"
     },
     {
       "title": "ROS2 Differential Drive Robot on Raspberry Pi 4",
