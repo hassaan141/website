@@ -61,6 +61,13 @@
       "source": "https://github.com/hassaan141/nbaPredictor"
     },
     {
+      "title": "Ping Pong Pilot",
+      "imageSrc": "https://media.licdn.com/dms/image/v2/D4D2DAQEMGWq3LS18lQ/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1726446245306?e=1751425200&v=beta&t=hxbdR1_wBokqPkcoQ1icjaYWYblCTLb7CYNFmeUErBk",
+      "description": "Created a ping pong serving robot using LegoEV3, consisting of motors, ultrasonic, color and     gyro sensor. Coded in C using RobotC",
+      "skills": ["Lego EV3", "Ultrasonic Sensor", "Gyro Sensor ","Color Sensor ", "C", "Robot C"],
+      "source": "https://github.com/hassaan141/PingPong-Pilot"
+    },
+    {
       "title": "BuzzShare -Social Media App",
       "imageSrc": "https://i.imgur.com/0ocBqdW.png",
       "description": "Created a social media application where users can post tweets similar to twitter with authentication using the JSON web token. Users can sign up and post tweets, and view other users tweets.",
@@ -75,13 +82,6 @@
       "skills": ["React.JS", "MongoDB", "Express", "Node", "Mern Stack", "Vercel"],
       "demo": "https://to-do-list-front-kappa.vercel.app/",
       "source": "https://github.com/hassaan141/to-do-list"
-    },
-    {
-      "title": "Ping Pong Pilot",
-      "imageSrc": "https://i.ibb.co/qtDxM8T/pingpong.png",
-      "description": "Created a ping pong serving robot using LegoEV3, consisting of motors, ultrasonic, color and     gyro sensor. Coded in C using RobotC",
-      "skills": ["Lego EV3", "Ultrasonic Sensor", "Gyro Sensor ","Color Sensor ", "C", "Robot C"],
-      "source": "https://github.com/hassaan141/PingPong-Pilot"
     },
     {
       "title": "Tic-Tac-Toe",
