@@ -62,7 +62,7 @@
     },
     {
       "title": "Ping Pong Pilot",
-      "imageSrc": "https://media.licdn.com/dms/image/v2/D4D2DAQEMGWq3LS18lQ/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1726446245306?e=1751425200&v=beta&t=hxbdR1_wBokqPkcoQ1icjaYWYblCTLb7CYNFmeUErBk",
+      "imageSrc": "https://i.ibb.co/Kzmst05v/pingpong.webp",
       "description": "Created a ping pong serving robot using LegoEV3, consisting of motors, ultrasonic, color and     gyro sensor. Coded in C using RobotC",
       "skills": ["Lego EV3", "Ultrasonic Sensor", "Gyro Sensor ","Color Sensor ", "C", "Robot C"],
       "source": "https://github.com/hassaan141/PingPong-Pilot"
